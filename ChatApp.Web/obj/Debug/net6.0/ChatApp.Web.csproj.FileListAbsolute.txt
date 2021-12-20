@@ -1,0 +1,1053 @@
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/appsettings.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web.staticwebassets.runtime.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web.deps.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web.runtimeconfig.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ref/ChatApp.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ChatApp.Web.pdb
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.csproj.AssemblyReference.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.AssemblyInfoInputs.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.AssemblyInfo.cs
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.csproj.CoreCompileInputs.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.RazorAssemblyInfo.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.RazorAssemblyInfo.cs
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/scopedcss/bundle/ChatApp.Web.styles.css
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/scopedcss/projectbundle/ChatApp.Web.bundle.scp.css
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ref/ChatApp.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.pdb
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.genruntimeconfig.cache
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/netstandard.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Console.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Core.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Data.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Web.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/obj/Debug/net6.0/ChatApp.Web.csproj.CopyComplete
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/libman.json
+/Users/artur/RiderProjects/ChatApp/ChatApp.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\libman.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.staticwebassets.runtime.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.exe
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.deps.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.runtimeconfig.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ref\ChatApp.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.pdb
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.AssemblyReference.cache
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.AssemblyInfo.cs
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.RazorAssemblyInfo.cache
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.RazorAssemblyInfo.cs
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\scopedcss\bundle\ChatApp.Web.styles.css
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\scopedcss\projectbundle\ChatApp.Web.bundle.scp.css
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.CopyComplete
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ref\ChatApp.Web.dll
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.pdb
+C:\Users\mikol\Desktop\ChatApp\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.genruntimeconfig.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\appsettings.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\libman.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.staticwebassets.runtime.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.exe
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.deps.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.runtimeconfig.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ref\ChatApp.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ChatApp.Web.pdb
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\mscorlib.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\netstandard.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Console.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Core.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Data.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Memory.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Windows.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.AssemblyReference.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.AssemblyInfoInputs.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.AssemblyInfo.cs
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.CoreCompileInputs.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.RazorAssemblyInfo.cache
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.RazorAssemblyInfo.cs
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\scopedcss\bundle\ChatApp.Web.styles.css
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\scopedcss\projectbundle\ChatApp.Web.bundle.scp.css
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.csproj.CopyComplete
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ref\ChatApp.Web.dll
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.pdb
+D:\ChatApp-Zadanie\ChatApp - Zadanie\ChatApp.Web\obj\Debug\net6.0\ChatApp.Web.genruntimeconfig.cache

@@ -5,5 +5,5 @@ A short amazing app which allows users available in common network (this app is 
 Created with ASP.NET Core SignalR. 
 
 - ``` git clone github.com/jbrambor/chatapp-mobile-apps.git ```
-- run in Visual Studio (you'll probably need 2022 Version
+- run in Visual Studio (you'll probably need 2022 Version)
 - have fun 🎉
